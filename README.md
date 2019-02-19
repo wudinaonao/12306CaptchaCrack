@@ -18,5 +18,8 @@
 ### 使用模型
 ``python classify.py``
 
+### 运行情况
+![runImg](/show/pred.png)<br>
+
 ### 参考连接
 https://www.pyimagesearch.com/2018/04/16/keras-and-convolutional-neural-networks-cnns/
