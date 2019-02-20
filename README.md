@@ -28,7 +28,7 @@ Keras实现，后端Tensorflow
 ![runImg](/show/pred.png)<br>
 
 ### 其他
-基于此笔者搭建了一个免费的12306验证码识别平台 http://35.201.142.200/
+基于此笔者搭建了一个免费的12306验证码识别平台 https://www.markcaptcha.com/
 
 ### 参考连接
 https://www.pyimagesearch.com/2018/04/16/keras-and-convolutional-neural-networks-cnns/
